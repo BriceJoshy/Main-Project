@@ -19,7 +19,7 @@ predicted in order to prevent damages to the machine and people.
 ## Abreviations
 ![image](https://github.com/user-attachments/assets/c5dd6213-ec13-456b-b5c2-61a394628689)
 
-##System Overview
+## System Overview
 ![image](https://github.com/user-attachments/assets/bd20fcff-74a8-45f2-bd56-c9a5a2564fb1)
 
 ## System architecture design
